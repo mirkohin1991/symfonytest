@@ -1,0 +1,7 @@
+parameters:
+#    mirko_my_albums.example.class: Mirko\MyAlbumsBundle\Example
+
+services:
+#    mirko_my_albums.example:
+#        class: %mirko_my_albums.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

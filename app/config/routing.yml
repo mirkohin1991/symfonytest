@@ -1,0 +1,4 @@
+mirko_my_albums:
+    resource: "@MirkoMyAlbumsBundle/Resources/config/routing.yml"
+    prefix:   /
+

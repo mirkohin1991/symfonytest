@@ -1,0 +1,7 @@
+mirko_my_albums_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: MirkoMyAlbumsBundle:Default:index }
+    
+my_albums_controller:
+    resource: "@MirkoMyAlbumsBundle/Controller"
+    type:     annotation
